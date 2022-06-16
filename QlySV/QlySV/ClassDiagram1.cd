@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QlySV.AddCourseForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAABiIAgACQAAAAAAAAAAEAAAAAgA=</HashCode>
+      <FileName>COURSE\AddCourseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.COURSES" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAACAAAAAAAAAAAAAEAAAAgAIAAAAAAAAAAIA=</HashCode>
+      <FileName>COURSE\COURSES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.EditCourseForm" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAEAACFAghAAABCAAAAKAAAAAABAAAAAAAABAAA=</HashCode>
+      <FileName>COURSE\EditCourseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.ManageCourseForm" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IghAEAAAGCBAkhAAABjBAoACwIAIAAAADBAAABAAAAA=</HashCode>
+      <FileName>COURSE\ManageCourseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.PrintCourseForm" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAgACAAAACACAAAAAEAAAAAAAEAFA=</HashCode>
+      <FileName>COURSE\PrintCourseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.RemoveCourseForm" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAIAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>COURSE\RemoveCourseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.Form1" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABACAAABEAAACAQEAiAAAACgCAAAABAAFAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.FormLoading" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAIAQACAAABAAAACAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormLoading.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.GlobalUserID" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalUserID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.MainForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcFIqACFAGpAEAFhAECAAABiACAABIAAUQAQAQpAIJQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.MY_DB" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAQAAAAAQAAAAAAAAABAAAAA=</HashCode>
+      <FileName>MY_DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.MY_DBDataSet" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAwAAAAJEBAAAQAAAAAgCQDgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.Program" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.AddContact" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAEQBACAAABAAAAiIBggCEAAAEABICBAAAABAgAA=</HashCode>
+      <FileName>REGISTER\AddContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.Contact" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACACAQAAAAAAABAAAAAAAAAAAAAAAQAAgAAAA=</HashCode>
+      <FileName>REGISTER\Contact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.EditContact" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAASAAABAQAAiABgACEAAAUABIABAAQABAgAA=</HashCode>
+      <FileName>REGISTER\EditContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.GROUP" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAEIFAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>REGISTER\GROUP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.HumanResource" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAJAAAAAcSBAAlQAACGAAEACAIgMAEAAAiAETQBAQAQ=</HashCode>
+      <FileName>REGISTER\HumanResource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.RegisterForm" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAgJACAAABAIAAGAQAACAAAAAAAgQACBAABEAAA=</HashCode>
+      <FileName>REGISTER\RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.SelectContact" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAEAAAAACAAAACAAgAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>REGISTER\SelectContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.ShowFullList" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAUAACAAABAgAACAAAQmAAhAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>REGISTER\ShowFullList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.User" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAQAAACAAAAAAAAAQAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>REGISTER\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.RESULTS" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAUAAAAACAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RESULT\RESULTS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.StaticResultForm" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEABAAhACIAAICAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RESULT\StaticResultForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.AddScoreForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAgFAAABCIgAACAAgAAAAAABAAECAAIAQ=</HashCode>
+      <FileName>SCORE\AddScoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.AvgScoreByCouseForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACIAAACAAAAAAAAAAAACACAAAA=</HashCode>
+      <FileName>SCORE\AvgScoreByCouseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.ManageScoreForm" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAACAECAEgFCQABiJggACAAgAAAAAABAwBAAAAAQ=</HashCode>
+      <FileName>SCORE\ManageScoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.PrintScoreForm" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIAAACIAAACQiggACIEAAAAAAAEABA=</HashCode>
+      <FileName>SCORE\PrintScoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.RemoveScoreForm" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAAECAEgEAAQACIAAACAIggAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>SCORE\RemoveScoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.SCORES" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAEAIEQAAAAAAABAAAQACA=</HashCode>
+      <FileName>SCORE\SCORES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.AddStudentForm" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAARQCAAABAKAACAAAECAAAAgEAAAAAAQABAAEI=</HashCode>
+      <FileName>STUDENT\AddStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.ManageStudentForm" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABCAAABEiBAglACCAiCEgACAAgCFABIABACAARCgAA=</HashCode>
+      <FileName>STUDENT\ManageStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.PrintStudentForm" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAAABmQAERACIACAAAAGQBgABCIAAAAAEQEAAAA=</HashCode>
+      <FileName>STUDENT\PrintStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.StacticsForm" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgCAQBCAgAAAgIgCAAAACAAACAARAAQAEAwAAAAA=</HashCode>
+      <FileName>STUDENT\StacticsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.STUDENT" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAQAgAABEAAAAAAAAgEAAAAQAAAA=</HashCode>
+      <FileName>STUDENT\STUDENT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.StudentListForm" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAjAQCEAAAAKAAAAigAAEAAgIAAAEUIAAAAE=</HashCode>
+      <FileName>STUDENT\StudentListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.UpdateDeleteStudentForm" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgBABQCAAAFAYBQCAAgADAAAAAEAgAQAAQCRkAAA=</HashCode>
+      <FileName>STUDENT\UpdateDeleteStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.MY_DBDataSetTableAdapters.stdTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.MY_DBDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAACAAAABABAEBAAAAMAAgAAACgAgAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.Properties.Resources" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QlySV.RESULT.ResultForm" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAEAATCCQBIIgACAAAACQAAAAAogAAAQAAAAAAA=</HashCode>
+      <FileName>RESULT\ResultForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
